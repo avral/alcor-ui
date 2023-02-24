@@ -60,7 +60,7 @@
     "redis": "^4.0.0-rc.3",
     "route-cache": "^0.4.5",
     "skeleton-loader-vue": "^1.0.10",
-    "socket.io": "^4.3.2",
+    "socket.io": "^4.6.1",
     "socket.io-client": "^4.3.2",
     "v-click-outside": "^3.1.2",
     "vue-apexcharts": "^1.6.0",
