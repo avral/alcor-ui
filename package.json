@@ -44,7 +44,7 @@
     "element-ui": "^2.15.12",
     "eos-common": "^0.8.0",
     "eosjs": "^22.1.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-formidable": "^1.2.0",
     "file-loader": "^6.2.0",
     "form-data": "^3.0.0",
